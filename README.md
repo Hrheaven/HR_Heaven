@@ -1,5 +1,4 @@
 ![](https://github.com/Hrheaven/HR_Heaven/blob/main/banner.png)<br/>
-https://github.com/Hrheaven/HR_Heaven/blob/main/banner.png
 # 💫 About Me:
 Hey There!<br>Myself Harun Or Rashid. I can create Static Android Application with android studio. I know Java, Python, C++ programming language and I can also create Professional Graphics Design in Adobe Illustrator 
 
